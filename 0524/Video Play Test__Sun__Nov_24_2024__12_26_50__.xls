@@ -1,0 +1,2 @@
+Station_Name	Operator	DUT_Identity	DUT_Version	Device_Identity	Device_Version	Software_Version	Test name	End Time	Result	P/F Result
+laptop	user	2607 EVM	version 0.1	2607EVM	version 1.0	version test	Video Play Test	 2024-11-24 12:26:54.316332	Test Fail EXCEPTION	Fail
